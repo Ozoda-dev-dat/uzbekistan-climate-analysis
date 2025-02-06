@@ -6,10 +6,10 @@
 📊 Ushbu loyiha O‘zbekistondagi iqlim o‘zgarishini tahlil qilish uchun mo‘ljallangan.
 
 ##  Foydalanilgan texnologiyalar:
-- Python 🐍
-- Pandas 📊
-- Matplotlib 📈
-- Seaborn 🎨
+- Python 
+- Pandas 
+- Matplotlib 
+- Seaborn 
 
 ##  Loyiha qanday ishlaydi?
 1. `uzbekistan_climate.csv` faylidan ma'lumotlarni yuklaydi.
